@@ -1,4 +1,5 @@
 # Twitter_Family_Ties
+
 All the codes to reproduce the article[1]:
 
 Gil-Clavel, Sofia, and Clara H. Mulder. “Does Twitter Data Mirror the European North–South Family Ties Divide? A Comparative Analysis of Tweets About Family.” Population Research and Policy Review 43, no. 4 (August 2024): 48. https://doi.org/10.1007/s11113-024-09891-6.
